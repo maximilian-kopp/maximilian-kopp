@@ -21,7 +21,7 @@ Freshman at **Rice University** (Class of 2030, Houston, TX; full scholarship). 
 
 I am looking to join a research lab at Rice.
 
-- Sole-author paper in **Biosensors and Bioelectronics: X** and a paper in *Applied and Computational Engineering*
+- Sole-author paper in **Biosensors and Bioelectronics: X**, a paper in *Applied and Computational Engineering*, and a 2026 manuscript on printable transparent OLEDs (unpublished)
 - Three U.S. patent applications, including published utility application No. 19/203,391
 - Founded [VitaSensor](https://www.thevitasensor.com) (lab-stage biomedical startup) and [Kopp Foundation for Diabetes](https://www.koppfoundation.org) (501(c)(3) nonprofit)
 - Presented to the U.S. Chief of Naval Research; commended by ONR and AFRL
@@ -32,7 +32,7 @@ Reach me at [maxkopp2007@gmail.com](mailto:maxkopp2007@gmail.com).
 
 ### Research Areas
 
-`Flexible Sensors` `Optical Sensing` `Wearable Health` `Biosensors` `Bioelectronics` `Nanomaterials` `Optical Polarimetry` `Machine Learning` `Structural Health Monitoring`
+`Flexible Sensors` `Optical Sensing` `Wearable Health` `Biosensors` `Bioelectronics` `Nanomaterials` `Optical Polarimetry` `Machine Learning` `Structural Health Monitoring` `Printed Electronics`
 
 ---
 
@@ -43,7 +43,7 @@ Reach me at [maxkopp2007@gmail.com](mailto:maxkopp2007@gmail.com).
 <td width="50%" valign="top">
 
 #### [GeSe Glucose Biosensor](https://github.com/maximilian-kopp/gese-glucose-biosensor)
-Flexible GeSe nanomaterial sensor for optical glucose detection (lab-stage; third-generation prototype). R² = 0.94, MAE ≈ 8.6 mg/dL (lab benchmark). Published in *Biosensors and Bioelectronics: X*.
+Flexible GeSe nanomaterial sensor for optical glucose detection (lab-stage; third-generation prototype). MAE ≈ 8.6 mg/dL (lab benchmark). Published in *Biosensors and Bioelectronics: X*.
 
 `Nanomaterials` `Polarimetry` `Python` `MATLAB`
 
@@ -51,7 +51,7 @@ Flexible GeSe nanomaterial sensor for optical glucose detection (lab-stage; thir
 <td width="50%" valign="top">
 
 #### [Ultrasonic SHM Sensor](https://github.com/maximilian-kopp/inkjet-ultrasonic-sensor)
-Inkjet-printed piezoelectric sensors for spacecraft structural health monitoring. Sub-1% localization error. U.S. Navy & Air Force recognized.
+Inkjet-printed piezoelectric sensors for spacecraft structural health monitoring. ~1% localization error. U.S. Navy & Air Force recognized.
 
 `Aerospace` `Ultrasonics` `Inkjet Printing`
 
@@ -75,6 +75,19 @@ Youth-led 501(c)(3) nonprofit bringing T1D education and peer support to college
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [Printable OLED Humidity Sensor](https://github.com/maximilian-kopp/printable-oled-humidity-sensor)
+Inkjet-printed and blade-coated transparent flexible OLED on PET that visualizes humidity as light (30–90% RH). Lithography-free; luminance above 2350 cd/m². 2026 manuscript (unpublished).
+
+`Printed Electronics` `OLED` `Humidity Sensing` `Flexible Displays`
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 ---
@@ -83,6 +96,7 @@ Youth-led 501(c)(3) nonprofit bringing T1D education and peer support to college
 
 1. M. B. Kopp, "Flexible nanomaterial sensors for non-invasive health monitoring," *Applied and Computational Engineering*, vol. 72, pp. 45–58, 2024. [doi:10.54254/2755-2721/72/20240981](https://doi.org/10.54254/2755-2721/72/20240981)
 2. M. B. Kopp, "Next-generation polarimetric biosensors: machine learning–driven GeSe photodetectors for noninvasive glucose monitoring," *Biosensors and Bioelectronics: X*, vol. 28, art. 100725, 2025 (sole author). [doi:10.1016/j.biosx.2025.100725](https://doi.org/10.1016/j.biosx.2025.100725)
+3. M. B. Kopp, "Printable organic light-emitting diodes for transparent display and visualized sensing," unpublished manuscript, 2026. [Data and code](https://github.com/maximilian-kopp/printable-oled-humidity-sensor)
 
 ### Patent Applications
 
