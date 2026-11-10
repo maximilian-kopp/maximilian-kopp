@@ -2,12 +2,12 @@
 
 # Maximilian Kopp
 
-**Bioelectronics Researcher | Inventor | Founder**
+**Flexible & Optical Sensors for Wearable Health | Undergraduate Researcher @ Rice**
 
 [![Website](https://img.shields.io/badge/maxkopptech.com-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.maxkopptech.com)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-6431-8137)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=TrKuDMsAAAAJ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximilian-kopp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxkopp)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=maximilian-kopp&style=flat-square&color=blue)
 
@@ -17,18 +17,22 @@
 
 ### About
 
-Incoming freshman at **Rice University** (Class of 2030, Full Scholarship). I design nanomaterial-based biosensors for non-invasive health monitoring, combining optical sensing, machine learning, and wearable device engineering.
+Freshman at **Rice University** (Class of 2030, Houston, TX; full scholarship). I work on **flexible and optical sensors for wearable health**. My first project is a needle-free glucose sensor; a second direction is inkjet-printed ultrasonic sensors for structural health monitoring.
 
-- Published in **Biosensors & Bioelectronics** (IF ~12) and Applied and Computational Engineering
-- 3 U.S. patent filings including 1 non-provisional utility patent
-- Founded [VitaSensor](https://www.thevitasensor.com) (biomedical startup) and [Kopp Foundation for Diabetes](https://www.koppfoundation.org) (501(c)(3) nonprofit)
-- Presented to the U.S. Chief of Naval Research; recognized by ONR, AFRL, and DoD
+I am looking to join a research lab at Rice.
+
+- Sole-author paper in **Biosensors and Bioelectronics: X** and a paper in *Applied and Computational Engineering*
+- Three U.S. patent applications, including published utility application No. 19/203,391
+- Founded [VitaSensor](https://www.thevitasensor.com) (lab-stage biomedical startup) and [Kopp Foundation for Diabetes](https://www.koppfoundation.org) (501(c)(3) nonprofit)
+- Presented to the U.S. Chief of Naval Research; commended by ONR and AFRL
+
+Reach me at [maxkopp2007@gmail.com](mailto:maxkopp2007@gmail.com).
 
 ---
 
 ### Research Areas
 
-`Biosensors` `Bioelectronics` `Nanomaterials` `Wearable Health Monitoring` `Optical Polarimetry` `Machine Learning` `Non-Invasive Diagnostics` `Structural Health Monitoring`
+`Flexible Sensors` `Optical Sensing` `Wearable Health` `Biosensors` `Bioelectronics` `Nanomaterials` `Optical Polarimetry` `Machine Learning` `Structural Health Monitoring`
 
 ---
 
@@ -38,22 +42,12 @@ Incoming freshman at **Rice University** (Class of 2030, Full Scholarship). I de
 <tr>
 <td width="50%" valign="top">
 
-#### [VitaSensor](https://github.com/maximilian-kopp/vitasensor)
-Wearable non-invasive glucose monitoring platform. 2 U.S. patents filed, FDA pre-submission initiated. Conrad Challenge Finalist, MIT Solve Semifinalist.
-
-`Biosensors` `Wearables` `ML` `Patents`
-
-</td>
-<td width="50%" valign="top">
-
 #### [GeSe Glucose Biosensor](https://github.com/maximilian-kopp/gese-glucose-biosensor)
-Flexible GeSe nanomaterial sensor for optical glucose detection. R² = 0.94, MAE ≈ 8.6 mg/dL. Published in *Biosensors & Bioelectronics*.
+Flexible GeSe nanomaterial sensor for optical glucose detection (lab-stage; third-generation prototype). R² = 0.94, MAE ≈ 8.6 mg/dL (lab benchmark). Published in *Biosensors and Bioelectronics: X*.
 
 `Nanomaterials` `Polarimetry` `Python` `MATLAB`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### [Ultrasonic SHM Sensor](https://github.com/maximilian-kopp/inkjet-ultrasonic-sensor)
@@ -62,10 +56,20 @@ Inkjet-printed piezoelectric sensors for spacecraft structural health monitoring
 `Aerospace` `Ultrasonics` `Inkjet Printing`
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [VitaSensor](https://github.com/maximilian-kopp/vitasensor)
+Lab-stage startup translating the glucose-sensing research into a needle-free wearable device (third-generation lab prototype). U.S. patent applications filed. Conrad Challenge Finalist, MIT Solve Semifinalist.
+
+`Biosensors` `Wearables` `ML` `Patent Applications`
+
+</td>
 <td width="50%" valign="top">
 
 #### [Kopp Foundation](https://github.com/maximilian-kopp/kopp-foundation)
-501(c)(3) nonprofit advancing T1D equity and education. 12 university chapters, 1,200+ volunteers, 15,000+ students reached.
+Youth-led 501(c)(3) nonprofit bringing T1D education and peer support to college campuses. 12 university chapters, 2,000+ student volunteers, eight-member board.
 
 `Nonprofit` `Diabetes` `Education`
 
@@ -77,14 +81,16 @@ Inkjet-printed piezoelectric sensors for spacecraft structural health monitoring
 
 ### Publications
 
-1. M. B. Kopp, "Flexible Nanomaterial Sensors for Non-Invasive Health Monitoring," *Applied and Computational Engineering*, vol. 72, pp. 45-58, 2024.
-2. M. B. Kopp, "Next-Generation Polarimetric Biosensors: ML-Driven GeSe Photodetectors for Noninvasive Glucose Monitoring," *Biosensors & Bioelectronics*, 2025.
+1. M. B. Kopp, "Flexible nanomaterial sensors for non-invasive health monitoring," *Applied and Computational Engineering*, vol. 72, pp. 45–58, 2024. [doi:10.54254/2755-2721/72/20240981](https://doi.org/10.54254/2755-2721/72/20240981)
+2. M. B. Kopp, "Next-generation polarimetric biosensors: machine learning–driven GeSe photodetectors for noninvasive glucose monitoring," *Biosensors and Bioelectronics: X*, vol. 28, art. 100725, 2025 (sole author). [doi:10.1016/j.biosx.2025.100725](https://doi.org/10.1016/j.biosx.2025.100725)
 
-### Patents
+### Patent Applications
 
-- U.S. Utility Application No. 19/203,391 — Non-Invasive Health Monitoring Device
-- U.S. Provisional No. 63/726,463 — Non-Invasive Health Monitoring Device
-- U.S. Provisional No. 63/775,901 — Inkjet-Printed Ultrasonic Sensor for SHM
+- U.S. Utility Application No. 19/203,391 — Non-Invasive Health Monitoring Device (published utility application; filed May 2025)
+- U.S. Provisional Application No. 63/726,463 — Non-Invasive Health Monitoring Device
+- U.S. Provisional Application No. 63/775,901 — Inkjet-Printed Ultrasonic Sensor for SHM
+
+<!-- TODO: add verified Google Patents or USPTO public document URLs when available. No public patent page was found as of 2026-11-10. -->
 
 ---
 
@@ -107,12 +113,12 @@ Inkjet-printed piezoelectric sensors for spacecraft structural health monitoring
 
 | Award | Year |
 |-------|------|
-| S.T. Yau Science Award — Bronze Medal, Physics (North America Top 3) | 2024 |
+| S.T. Yau Science Award — Bronze Medal, Physics (North America) | 2024 |
 | NJSHS National Symposium — 3rd Place (Dept. of Defense) | 2024 |
 | MIT Solve Global Health Challenge — Semifinalist | 2025 |
 | Conrad Challenge — National Finalist | 2025 |
 | U.S. Navy Environmental Science Award | 2025 |
-| Philadelphia Inno — 25 Under 25 | 2025 |
+| Philadelphia Business Journal — Philly Inno 25 Under 25 | 2025 |
 
 ---
 
